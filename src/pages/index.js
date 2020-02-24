@@ -8,8 +8,8 @@ export default () => (
     <Header headerText="Hello! This is my site." />
     <p>I am learning to code.</p>
     <img src="https://source.unsplash.com/random/400x200" alt="" />
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
-    <img src="https://source.unsplash.com/random/400x200" alt="" />
+    
+    <p>fixed the duplicated images callout.</p>
   </div> 
 )
 
